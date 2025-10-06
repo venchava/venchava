@@ -11,7 +11,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=venchava&color=brightgreen)
 
 </div>
-
 ---
 
 ## 🧭 About Me
