@@ -62,7 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=venchava&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venchava&layout=compact&theme=radical" />
 </div>
-
 ---
 
 ## 🏆 Achievements
