@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Cloud-Native & AI-Powered Systems  
-**Senior Software Engineer | .NET · Cloud · AI/ML · Generative AI | 8+ Years**  
+**Senior Software Engineer | .NET · Cloud · AI/ML · Generative AI | 6+ Years**  
 🌐 Architecting microservices, intelligent APIs, & scalable AI solutions  
 ☁️ AWS, Kubernetes, Terraform, DevOps, Observability
 
