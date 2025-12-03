@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-- 💼 8+ years: .NET, Cloud, DevOps, Generative AI  
+- 💼 6+ years: .NET, Cloud, DevOps, Generative AI  
 - ☁️ AWS Certified Solutions Architect – Associate  
 - 🚀 Enterprise-grade microservices, event-driven, and AI APIs  
 - 📊 Obsessed with reliable, observable, performance systems  
